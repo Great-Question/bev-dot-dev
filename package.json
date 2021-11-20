@@ -2,8 +2,10 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://great-question.github.io/bev-dot-dev/",
   "dependencies": {
     "classnames": "^2.2.6",
+    "gh-pages": "^3.2.3",
     "lodash": "^4.17.15",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
@@ -20,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

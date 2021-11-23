@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bev-dot-dev/static/css/main.58c437a0.chunk.css",
-    "main.js": "/bev-dot-dev/static/js/main.5243149f.chunk.js",
-    "main.js.map": "/bev-dot-dev/static/js/main.5243149f.chunk.js.map",
+    "main.js": "/bev-dot-dev/static/js/main.692db17c.chunk.js",
+    "main.js.map": "/bev-dot-dev/static/js/main.692db17c.chunk.js.map",
     "runtime-main.js": "/bev-dot-dev/static/js/runtime-main.2d544968.js",
     "runtime-main.js.map": "/bev-dot-dev/static/js/runtime-main.2d544968.js.map",
     "static/js/2.29b33454.chunk.js": "/bev-dot-dev/static/js/2.29b33454.chunk.js",
     "static/js/2.29b33454.chunk.js.map": "/bev-dot-dev/static/js/2.29b33454.chunk.js.map",
     "index.html": "/bev-dot-dev/index.html",
-    "precache-manifest.8de0e44be161bbb45547f50a028834c6.js": "/bev-dot-dev/precache-manifest.8de0e44be161bbb45547f50a028834c6.js",
+    "precache-manifest.19b629ab867dc7276602eba6c3248a07.js": "/bev-dot-dev/precache-manifest.19b629ab867dc7276602eba6c3248a07.js",
     "service-worker.js": "/bev-dot-dev/service-worker.js",
     "static/css/main.58c437a0.chunk.css.map": "/bev-dot-dev/static/css/main.58c437a0.chunk.css.map",
     "static/js/2.29b33454.chunk.js.LICENSE.txt": "/bev-dot-dev/static/js/2.29b33454.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.2d544968.js",
     "static/js/2.29b33454.chunk.js",
     "static/css/main.58c437a0.chunk.css",
-    "static/js/main.5243149f.chunk.js"
+    "static/js/main.692db17c.chunk.js"
   ]
 }

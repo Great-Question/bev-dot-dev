@@ -62,7 +62,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — A Los Angeles based software engineer with fabulous hair and a passion for birding.
+                    — A Los Angeles based software engineer with fabulous hair and a passion for birding, bouldering, jazz.
                   </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">

@@ -73,7 +73,9 @@ const Hero = ({
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                 A tool for managing dependences for microfrontend migration.
-                </p>
+                <br></br>
+              <em>Read more about bev on <a href="htpps"><u>Medium</u></a></em>.
+              </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://github.com/oslabs-beta/bev">

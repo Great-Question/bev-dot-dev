@@ -22,7 +22,7 @@ ReactDOM.render(
 // returns an array elements
 const element = document.getElementsByClassName('m-0');
 // iterate through the elements array to find 'bev'
-for (let i = 1; i < element.length; i++) {
+for (let i = 1; i < element.length - 1; i++) {
   const originalHTML = element[i].innerHTML;
   // if the string 'bev' has been found, replace the word with a <strong> and red color innerHtml.
   const newHTML = originalHTML.replace(/bev/gi, "<span style='color:#ac1f1f'><strong>bev</strong></span>");

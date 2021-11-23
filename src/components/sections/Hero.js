@@ -5,6 +5,7 @@ import ButtonGroup from '../elements/ButtonGroup';
 import Button from '../elements/Button';
 import Image from '../elements/Image';
 import Modal from '../elements/Modal';
+import Logo from '../layout/partials/Logo';
 
 const propTypes = {
   ...SectionProps.types
@@ -61,6 +62,12 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
+            <Image
+            src={require('./../../assets/images/bev-logo-dark.svg')}
+            alt="Open"
+            width={128}
+            height={128} 
+            />
               <span className="text-color-primary">bev</span>
             </h1>
             <div className="container-xs">

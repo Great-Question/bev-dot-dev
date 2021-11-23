@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ba8666544df70926c106f3690173912",
+    "revision": "7ff07d24e286b9288371a1534db64f67",
     "url": "/bev-dot-dev/index.html"
   },
   {
-    "revision": "cbc4e25a26916ad9d9d3",
+    "revision": "3f3d1f3fc351faea8771",
     "url": "/bev-dot-dev/static/css/main.58c437a0.chunk.css"
   },
   {
-    "revision": "815e851e7c7c12a17c50",
-    "url": "/bev-dot-dev/static/js/2.29b33454.chunk.js"
+    "revision": "06cf8b1e61f9bc117cfd",
+    "url": "/bev-dot-dev/static/js/2.0957abc9.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/bev-dot-dev/static/js/2.29b33454.chunk.js.LICENSE.txt"
+    "url": "/bev-dot-dev/static/js/2.0957abc9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cbc4e25a26916ad9d9d3",
-    "url": "/bev-dot-dev/static/js/main.692db17c.chunk.js"
+    "revision": "3f3d1f3fc351faea8771",
+    "url": "/bev-dot-dev/static/js/main.e6878fce.chunk.js"
   },
   {
     "revision": "a0808e52b297156ae85e",
     "url": "/bev-dot-dev/static/js/runtime-main.2d544968.js"
+  },
+  {
+    "revision": "6b8ead6595463bea9ac49856f7d2e382",
+    "url": "/bev-dot-dev/static/media/bev-logo-dark.6b8ead65.svg"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
@@ -66,9 +70,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "63d0555d90c053eea1a1a7469d004661",
     "url": "/bev-dot-dev/static/media/illustration-section-02.63d0555d.svg"
-  },
-  {
-    "revision": "2810a88b1d6365b363caeabe678f1629",
-    "url": "/bev-dot-dev/static/media/logo.2810a88b.svg"
   }
 ]);

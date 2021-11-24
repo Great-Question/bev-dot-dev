@@ -2,7 +2,7 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://great-question.github.io/bev-dot-dev/",
+  "homepage": "https://bev.dev",
   "dependencies": {
     "classnames": "^2.2.6",
     "gh-pages": "^3.2.3",

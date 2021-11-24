@@ -1,32 +1,26 @@
 {
   "files": {
-    "main.css": "/bev-dot-dev/static/css/main.d1dccfe9.chunk.css",
-    "main.js": "/bev-dot-dev/static/js/main.6ca92550.chunk.js",
-    "main.js.map": "/bev-dot-dev/static/js/main.6ca92550.chunk.js.map",
-    "runtime-main.js": "/bev-dot-dev/static/js/runtime-main.2d544968.js",
-    "runtime-main.js.map": "/bev-dot-dev/static/js/runtime-main.2d544968.js.map",
-    "static/js/2.0957abc9.chunk.js": "/bev-dot-dev/static/js/2.0957abc9.chunk.js",
-    "static/js/2.0957abc9.chunk.js.map": "/bev-dot-dev/static/js/2.0957abc9.chunk.js.map",
-    "index.html": "/bev-dot-dev/index.html",
-    "precache-manifest.30507e77d58b390dbf2ecb7c3c2e57f4.js": "/bev-dot-dev/precache-manifest.30507e77d58b390dbf2ecb7c3c2e57f4.js",
-    "service-worker.js": "/bev-dot-dev/service-worker.js",
-    "static/css/main.d1dccfe9.chunk.css.map": "/bev-dot-dev/static/css/main.d1dccfe9.chunk.css.map",
-    "static/js/2.0957abc9.chunk.js.LICENSE.txt": "/bev-dot-dev/static/js/2.0957abc9.chunk.js.LICENSE.txt",
-    "static/media/bev-logo-dark.svg": "/bev-dot-dev/static/media/bev-logo-dark.6b8ead65.svg",
-    "static/media/style.scss": "/bev-dot-dev/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/feature-tile-icon-01.svg": "/bev-dot-dev/static/media/feature-tile-icon-01.0f9928d7.svg",
-    "static/media/feature-tile-icon-02.svg": "/bev-dot-dev/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/feature-tile-icon-03.svg": "/bev-dot-dev/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/feature-tile-icon-04.svg": "/bev-dot-dev/static/media/feature-tile-icon-04.836acd10.svg",
-    "static/media/feature-tile-icon-05.svg": "/bev-dot-dev/static/media/feature-tile-icon-05.fa9ba00b.svg",
-    "static/media/feature-tile-icon-06.svg": "/bev-dot-dev/static/media/feature-tile-icon-06.6a177696.svg",
-    "static/media/features-split-image-01.png": "/bev-dot-dev/static/media/features-split-image-01.d9cb99ce.png",
-    "static/media/features-split-image-02.png": "/bev-dot-dev/static/media/features-split-image-02.3c569239.png"
+    "main.css": "/static/css/main.01a1e3a7.chunk.css",
+    "main.js": "/static/js/main.d206a8a6.chunk.js",
+    "main.js.map": "/static/js/main.d206a8a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
+    "static/js/2.45f53f57.chunk.js": "/static/js/2.45f53f57.chunk.js",
+    "static/js/2.45f53f57.chunk.js.map": "/static/js/2.45f53f57.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c4b782de51deccde5a7661dfbf340366.js": "/precache-manifest.c4b782de51deccde5a7661dfbf340366.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.01a1e3a7.chunk.css.map": "/static/css/main.01a1e3a7.chunk.css.map",
+    "static/js/2.45f53f57.chunk.js.LICENSE.txt": "/static/js/2.45f53f57.chunk.js.LICENSE.txt",
+    "static/media/bev-logo-dark.svg": "/static/media/bev-logo-dark.6b8ead65.svg",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/features-split-image-01.png": "/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/static/media/features-split-image-02.3c569239.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d544968.js",
-    "static/js/2.0957abc9.chunk.js",
-    "static/css/main.d1dccfe9.chunk.css",
-    "static/js/main.6ca92550.chunk.js"
+    "static/js/runtime-main.b8b9f84b.js",
+    "static/js/2.45f53f57.chunk.js",
+    "static/css/main.01a1e3a7.chunk.css",
+    "static/js/main.d206a8a6.chunk.js"
   ]
 }

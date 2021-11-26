@@ -74,14 +74,14 @@ const Hero = ({
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                 A tool for managing dependences for microfrontend migration.
                 <br></br>
-              <em>Read more about bev on <a href="htpps"><u>Medium</u></a></em>.
+              <em style={{fontSize:"12px"}}>Read more about bev on <a href="htpps"><u><a href="https://medium.com/@teamgreatquestion/migrating-to-microservices-made-mundane-729bf0b4214c">Medium</a></u></a></em>.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://github.com/oslabs-beta/bev">
+                  {/* <Button tag="a" color="primary" wideMobile href="https://github.com/oslabs-beta/bev">
                     Download Here
-                    </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/oslabs-beta/bev/">
+                    </Button> */}
+                  <Button tag="a" color="primary" wideMobile href="https://github.com/oslabs-beta/bev/">
                     View on Github
                     </Button>
                 </ButtonGroup>

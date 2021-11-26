@@ -25,7 +25,7 @@ const Logo = ({
             alt="Open"
             width={64}
             height={64} 
-            tintColor='red'/>
+            />
         </Link>
       </h1>
     </div>

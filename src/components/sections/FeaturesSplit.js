@@ -84,10 +84,10 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={'https://i.imgur.com/dmFFTVY.gif'}
                   alt="Features split 01"
-                  width={528}
-                  height={396} />
+                  width={1152}
+                  height={650} />
               </div>
             </div>
             
@@ -111,10 +111,37 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={"https://i.imgur.com/UDXgfVC.png"}
                   alt="Features split 02"
-                  width={528}
-                  height={396} />
+                  width={1200}
+                  height={700} />
+              </div>
+            </div>
+
+            {/* Second feature */}
+            <div className="split-item">
+              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                  See your bundle size change
+                  </div>
+                <h3 className="mt-0 mb-12">
+                  Bundle Size History
+                  </h3>
+                <p className="m-0">
+                bev keeps a history of how your bundle size over time.
+                </p>
+              </div>
+              <div className={
+                classNames(
+                  'split-item-image center-content-mobile reveal-from-bottom',
+                  imageFill && 'split-item-image-fill'
+                )}
+                data-reveal-container=".split-item">
+                <Image
+                  src={"https://i.imgur.com/jp8CSog.png"}
+                  alt="Features split 02"
+                  width={1200}
+                  height={700} />
               </div>
             </div>
 

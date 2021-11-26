@@ -62,6 +62,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
+                  <img src="https://i.imgur.com/Hel78as.jpg" width="250" height="250" style={{margin:"auto"}}></img>
                     — A Los Angeles based software engineer with fabulous hair and a passion for birding, bouldering, jazz.
                   </p>
                 </div>
@@ -81,6 +82,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
+                    <img src="https://avatars.githubusercontent.com/u/6416532?v=4" width="250" height="250" style={{margin:"auto"}}></img>
                     — A Seattle based software engineer with a passion for coffee, backpacking, and music.
                   </p>
                 </div>
@@ -100,6 +102,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
+                    <img src="https://i.imgur.com/S0sJ1ak.jpg" width="250" height="250" style={{margin:"auto"}}></img>
                     — A San Jose based software engineer with a passion for teaching, and mathematics.
                     </p>
                 </div>
@@ -119,6 +122,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
+                    <img src="https://i.imgur.com/UeSA2gW.jpg" width="250" height="250" style={{margin:"auto"}}></img>
                     — A Los Angeles based software engineer with a passion for photography, K-Pop and Formula 1 racing.
                     </p>
                 </div>
@@ -138,6 +142,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
+                  <img src="https://avatars.githubusercontent.com/u/41654007?v=4" width="250" height="250" style={{margin:"auto"}}></img>
                     — A Honolulu based software engineer with a passion for baking who mentored the bev development team.
                     </p>
                 </div>

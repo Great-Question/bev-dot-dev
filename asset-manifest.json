@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f4c2526.chunk.css",
+    "main.css": "/static/css/main.82aa65ad.chunk.css",
     "main.js": "/static/js/main.a89319f0.chunk.js",
     "main.js.map": "/static/js/main.a89319f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
@@ -8,9 +8,9 @@
     "static/js/2.45f53f57.chunk.js": "/static/js/2.45f53f57.chunk.js",
     "static/js/2.45f53f57.chunk.js.map": "/static/js/2.45f53f57.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6d355ead060d03c4b2c740d98f9d5acc.js": "/precache-manifest.6d355ead060d03c4b2c740d98f9d5acc.js",
+    "precache-manifest.4e68d739b88531fe985453a1c46176ac.js": "/precache-manifest.4e68d739b88531fe985453a1c46176ac.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.7f4c2526.chunk.css.map": "/static/css/main.7f4c2526.chunk.css.map",
+    "static/css/main.82aa65ad.chunk.css.map": "/static/css/main.82aa65ad.chunk.css.map",
     "static/js/2.45f53f57.chunk.js.LICENSE.txt": "/static/js/2.45f53f57.chunk.js.LICENSE.txt",
     "static/media/bev-logo.png": "/static/media/bev-logo.7b3bca7c.png",
     "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b8b9f84b.js",
     "static/js/2.45f53f57.chunk.js",
-    "static/css/main.7f4c2526.chunk.css",
+    "static/css/main.82aa65ad.chunk.css",
     "static/js/main.a89319f0.chunk.js"
   ]
 }

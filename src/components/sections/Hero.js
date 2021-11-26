@@ -63,18 +63,18 @@ const Hero = ({
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
             <Image
-            src={require('./../../assets/images/bev-logo-dark.svg')}
+            src={require('./../../assets/images/bev-logo.png')}
             alt="Open"
             width={128}
             height={128} 
             />
-              <span className="text-color-primary">bev</span>
+              <span className="title" style={{color:"darkred"}}>bev</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                 A tool for managing dependences for microfrontend migration.
                 <br></br>
-              <em style={{fontSize:"12px"}}>Read more about bev on <a href="htpps"><u><a href="https://medium.com/@teamgreatquestion/migrating-to-microservices-made-mundane-729bf0b4214c">Medium</a></u></a></em>.
+              <em style={{fontSize:"12px"}}>Read more about bev on <u><a href="https://medium.com/@teamgreatquestion/migrating-to-microservices-made-mundane-729bf0b4214c">Medium</a></u></em>.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>

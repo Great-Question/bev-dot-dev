@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c7000227da84fa5d0bc025987df7d26",
+    "revision": "71b2d08131e15011173dc5b4187eeacc",
     "url": "/index.html"
   },
   {
-    "revision": "522ec5ec84b8780e084c",
-    "url": "/static/css/main.2be4f19b.chunk.css"
+    "revision": "104520cb67277556a615",
+    "url": "/static/css/main.7f4c2526.chunk.css"
   },
   {
     "revision": "10d3f3d59c7318ae5dfc",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.45f53f57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "522ec5ec84b8780e084c",
-    "url": "/static/js/main.1997da59.chunk.js"
+    "revision": "104520cb67277556a615",
+    "url": "/static/js/main.a89319f0.chunk.js"
   },
   {
     "revision": "c307e69827cf23a9bfac",
     "url": "/static/js/runtime-main.b8b9f84b.js"
   },
   {
-    "revision": "6b8ead6595463bea9ac49856f7d2e382",
-    "url": "/static/media/bev-logo-dark.6b8ead65.svg"
+    "revision": "7b3bca7c74ebf7a640256d2d88798536",
+    "url": "/static/media/bev-logo.7b3bca7c.png"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
